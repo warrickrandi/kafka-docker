@@ -1,5 +1,5 @@
 # Kafka Docker Image with Zookeeper
 
 **Run the Dokcer Image**
-``bash
+```bash
 docker-compose up -d
